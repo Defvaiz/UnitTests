@@ -1,0 +1,6 @@
+C:\Users\Максим\Downloads\UnitTesti2\bin\Debug\Utilites.dll
+C:\Users\Максим\Downloads\UnitTesti2\bin\Debug\Utilites.pdb
+C:\Users\Максим\Downloads\UnitTesti2\obj\Debug\Utilites.csproj.AssemblyReference.cache
+C:\Users\Максим\Downloads\UnitTesti2\obj\Debug\Utilites.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Downloads\UnitTesti2\obj\Debug\Utilites.dll
+C:\Users\Максим\Downloads\UnitTesti2\obj\Debug\Utilites.pdb
